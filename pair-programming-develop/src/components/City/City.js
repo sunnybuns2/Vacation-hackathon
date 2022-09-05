@@ -1,2 +1,0 @@
-import "./City.scss"
-
